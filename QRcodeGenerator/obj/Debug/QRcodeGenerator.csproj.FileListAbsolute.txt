@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe.config
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.pdb
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\zxing.dll
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\zxing.presentation.dll
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\zxing.xml
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\zxing.presentation.xml
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.Form1.resources
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.Properties.Resources.resources
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.CopyComplete
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.exe
+C:\Users\USER\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.pdb
