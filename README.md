@@ -1,2 +1,2 @@
 # QRCode_Generator
-# URL => QRCode JPG, PNG 저장 
+    URL => QRCode 생성하여 JPG, PNG 저장 
